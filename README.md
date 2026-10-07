@@ -64,6 +64,7 @@ Software that closes the ticket instead of routing it.
 - **[eesel](https://www.eesel.ai/)** — Trains on the help desk's own past tickets, which is the corpus nobody else uses. `Paid` `Web` `API`
 - **[Forethought](https://www.forethought.ai/)** — Predicts intent before routing, so the deflection happens ahead of the queue. `Paid` `Web` `API`
 - **[Intercom Fin](https://fin.ai/)** — Charged only per conversation it actually resolved, which is an unusually honest model. `Paid` `Web` `API`
+- **[IrisAgent](https://irisagent.com/)**: Overlay for Zendesk, Salesforce, Intercom, and Freshworks that resolves from past tickets and the KB, and hands off with context when unsure. `Freemium` `Web`
 
 ## Voice and phone support
 
